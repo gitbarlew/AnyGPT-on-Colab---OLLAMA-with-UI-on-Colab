@@ -15,7 +15,8 @@ Getting Started:
 
 Google Account
 Familiarity with Google Colab
-Instructions:
+
+## Instructions:
 The detailed instructions for setup and usage are provided in the included Jupyter Notebook (ChatGPT_Colab_Ollama.ipynb).
 
 ## Additional Resources:
