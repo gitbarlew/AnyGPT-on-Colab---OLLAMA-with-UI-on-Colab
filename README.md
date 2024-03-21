@@ -21,7 +21,9 @@ The detailed instructions for setup and usage are provided in the included Jupyt
 ## Additional Resources:
 
 Ollama Homepage: https://ollama.com/
+
 NextJS-Ollama-LLM-UI GitHub: https://github.com/jakobhoeg/nextjs-ollama-llm-ui (UI used in this project)
+
 Localtunnel GitHub: https://github.com/localtunnel
 
 ## Considerations:
