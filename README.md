@@ -1,7 +1,7 @@
 # AnyGPT your own ChatGPT Clone for Free on Colab in under 10 minutes
 This repository provides a setup for a ChatGPT-like interface for Large Language Models (LLMs) on Google Colab using Ollama and a user interface (UI).
 
-This supports the article "Launch Your Own ChatGPT Clone for Free on Colab: Shareable and Online in less than 10 Minutes" by Bartek Lewicz (https://medium.com/@bartek.lewicz/launch-your-own-chatgpt-clone-for-free-on-colab-shareable-and-online-in-less-than-10-minutes-da19e44be5eb).
+This supports the article "Launch Your Own ChatGPT Clone for Free on Colab: Shareable and Online in less than 10 Minutes" (https://medium.com/@bartek.lewicz/launch-your-own-chatgpt-clone-for-free-on-colab-shareable-and-online-in-less-than-10-minutes-da19e44be5eb).
 
 ## Functionality:
 
@@ -13,11 +13,10 @@ Getting Started:
 
 ## Requirements:
 
-Google Account
-Familiarity with Google Colab
+Google Account and Familiarity with Google Colab
 
 ## Instructions:
-The detailed instructions for setup and usage are provided in the included Jupyter Notebook (ChatGPT_Colab_Ollama.ipynb).
+The detailed instructions for setup and usage are provided in the included Jupyter Notebook (AnyGPT_Colab_OLLAMA_with_UI_on_Colab.ipynb).
 
 ## Additional Resources:
 
